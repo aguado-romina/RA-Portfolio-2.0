@@ -2745,13 +2745,13 @@ input[type="button"]:disabled,
 
 #header .image.avatar {
   margin: 0 0 1em 0;
-  width: 9.25em;
+  width: 8.25em;
 }
 
 /* Footer */
 
 #footer .icons {
-  margin: 1em 0 0 0;
+  margin: 10em 0 0 0;
 }
 
 #footer .icons a {
