@@ -2750,12 +2750,15 @@ input[type="button"]:disabled,
 
 /* Footer */
 
+/* #footer .inner {
+  padding-top: 30px;
+} */
 #footer .icons {
   margin: 10em 0 0 0;
 }
 
 #footer .icons a {
-  color: rgba(255, 255, 255, 0.4);
+  color: #ffffff;
 }
 
 #footer .copyright {
